@@ -1,0 +1,5 @@
+main:
+  - title: "docs"
+    url: /docs/
+  - title: "posts"
+    url: /posts/
